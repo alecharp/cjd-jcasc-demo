@@ -1,4 +1,4 @@
-FROM cloudbees/cloudbees-jenkins-distribution:2.176.2.3
+FROM cloudbees/cloudbees-jenkins-distribution:2.204.1.1
 
 ENV JENKINS_INCREMENTALS_REPO_MIRROR https://repo.jenkins-ci.org/incrementals
 
