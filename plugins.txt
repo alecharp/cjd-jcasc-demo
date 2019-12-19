@@ -1,11 +1,11 @@
-configuration-as-code:1.27
+configuration-as-code:1.34
 # https://issues.jenkins-ci.org/browse/JENKINS-57559
 credentials:2.2.0
 # https://issues.jenkins-ci.org/browse/JENKINS-57603
-git:3.10.1
+git:3.12.1
 # https://issues.jenkins-ci.org/browse/JENKINS-57562 and other compatibility issues
-ec2:1.44.1
+ec2:1.46.1
 # https://issues.jenkins-ci.org/browse/JENKINS-52906
-jira:3.0.7
+jira:3.0.11
 # Transitive dependency
-script-security:1.58
+script-security:1.68
